@@ -8,7 +8,7 @@ With a strong foundation in cybersecurity and programming, I'm always eager to e
 I'm a multifaceted individual who balances creative pursuits with technological exploration. My passion for video editing and love for Kdramas led me to build and manage a 10K-follower Instagram page. This experience unexpectedly introduced me to cybersecurity, sparking a deeper interest in the field. Driven by AI's rapid progress and vast potential, I've strong affinity for generative AI and data analytics and I'm eager to expand my expertise in these areas. My interests include cyber security, AI, web development, and trying to figure out what I want to do with my life - ("I'm not indecisive at all")
 
 ## ⚡ Fun Fact 
-I got into programming just because the sound of keyboard clacking soothes me :)
+programming piqued my interest "just bc" keyboard clacking soothes me ༎ຶ⁠‿⁠༎ຶ
 
 ## 🧬 My tech DNA: 
 - 50% cyber security
