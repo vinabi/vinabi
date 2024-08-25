@@ -1,5 +1,4 @@
-# 👋 >_ nayab: 
-### just trying to make it through the day.
+# 👋 nayab: just trying to make it through the day.
 
 ## 👀 About Me
 With a strong foundation in cybersecurity and programming, I'm always eager to expand my skills in AI and explore its potential to drive real-world impact. As a computer scientist, programmer, and AI enthusiast, I'm passionate about using technology to solve complex problems and improve people's lives. I'm excited to continue learning, growing, and collaborating with others to shape a better future.
