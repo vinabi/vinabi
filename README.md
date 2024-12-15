@@ -14,29 +14,25 @@ Driven by AI's rapid advancements, I've a strong affinity for ```Generative AI &
 - 40% cybersecurity
 - 10% web development
 
----
-
 ## 🤖 Skills
 
 ### Programming and Development
-- **Python** | **SQL** | **HTML & CSS** | **C++** | **Bash Scripting**
+- *Python* | *SQL* | *HTML & CSS* | *C++* | *Bash Scripting*
 
 ### AI and Machine Learning
-- **Generative AI** | **Stable Diffusion** | **PyTorch** | **Scikit-learn** | **Transformers** | **TensorFlow** | **OpenCV** | **Data Preprocessing and Transformation**
+- *Generative AI* | *Stable Diffusion* | *PyTorch* | *Scikit-learn* | *Transformers* | *TensorFlow* | *OpenCV* | *Data Preprocessing and Transformation*
 
 ### Data Science and Analytics
-- **Data Visualization** (Power BI, Matplotlib, Seaborn, Plotly) | **DAX** | **Exploratory Data Analysis (EDA)** | **ETL** | **Business Intelligence (BI)** | **Business Analytics** | **Data Analysis**
+- *Data Visualization* (Power BI, Matplotlib, Seaborn, Plotly) | *DAX* | *Exploratory Data Analysis (EDA)* | *ETL* | *Business Intelligence (BI)* | *Business Analytics* | *Data Analysis*
 
 ### Cybersecurity
-- **IBM-certified Cybersecurity Analyst** | **Keylogger Deployment** | **Penetration Testing** | **SHA Encryption** | **USB Rubber Ducky** | **Automated Exploits** | **Remote Access Trojans (RAT)** | **SEToolkit**
+- *IBM-certified Cybersecurity Analyst* | *Keylogger Deployment* | *Penetration Testing* | *SHA Encryption* | *USB Rubber Ducky* | *Automated Exploits* | *Remote Access Trojans (RAT)* | *SEToolkit*
 
 ### Database Design and Management
-- **RDBMS** | **Database Schema Design** | **ERD Diagramming and Normalization** | **Advanced SQL Queries** (Joins, CTEs, Window Functions) | **Inventory and Sales Tracking**
+- *RDBMS* | *Database Schema Design* | *ERD Diagramming and Normalization* | *Advanced SQL Queries* (Joins, CTEs, Window Functions) | *Inventory and Sales Tracking*
 
 ### Tools and Frameworks
-- **Google Colab** | **Jupyter** | **Numpy** | **Pandas** | **Matplotlib** | **Scikit-learn** | **TensorFlow** | **PyTorch** | **Streamlit** | **Gradio** | **OpenCV** | **Stable Diffusion** | **Flask** | **YOLO** | **Hugging Face** | **APIs** | **Visual Studio** | **Kali Linux** | **Metasploit** | **Bash Scripting** | **RAT (Remote Access Trojans)** | **SEToolkit** | **Advanced Microsoft Excel** | **Power BI**
-
----
+- *Google Colab* | *Jupyter* | *Numpy* | *Pandas* | *Matplotlib* | *Scikit-learn* | *TensorFlow* | *PyTorch* | *Streamlit* | *Gradio* | *OpenCV* | *Stable Diffusion* | *Flask* | *YOLO* | *Hugging Face* | *APIs* | *Kali Linux* | *Metasploit* | *Bash Scripting* | *RAT (Remote Access Trojans)* | *SEToolkit* | *Advanced Microsoft Excel* | *Power BI*
 
 ## ⚡ Fun Fact 
 Diving deep into technology piqued my interest bc apparently ```keyboard clacking soothes me``` (i don't regret it ig)  ༎ຶ⁠‿⁠༎ຶ
