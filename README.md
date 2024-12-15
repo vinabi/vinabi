@@ -1,5 +1,5 @@
-# 👋 nayab here!
-     - just trynna make it through the day.
+# 👋 ```nayab``` here.
+     - just trynna make it through the day!
 
 ## 👀 About Me
 With a strong foundation in cybersecurity and programming, I'm always eager to expand my skills in AI and explore its potential to drive real world impact. I'm a continous learner thriving to grow and collaborate with others to shape a better future. As a computer scientist, AI enthusiast, and a programmer, I'm passionate about using technology to solve complex real problems & improve people's lives. 
@@ -14,7 +14,7 @@ Driven by AI's rapid advancements, I've a strong affinity for ```Generative AI &
 - 40% cybersecurity
 - 10% web development
 
-## 🤖 Skills
+## 🤖 Skillset?!
 
 ### Programming and Development
 - *Python* | *SQL* | *HTML & CSS* | *C++* | *Bash Scripting*
@@ -32,7 +32,7 @@ Driven by AI's rapid advancements, I've a strong affinity for ```Generative AI &
 - *RDBMS* | *Database Schema Design* | *ERD Diagramming and Normalization* | *Advanced SQL Queries* (Joins, CTEs, Window Functions) | *Inventory and Sales Tracking*
 
 ### Tools and Frameworks
-- *Google Colab* | *Jupyter* | *Numpy* | *Pandas* | *Matplotlib* | *Scikit-learn* | *TensorFlow* | *PyTorch* | *Streamlit* | *Gradio* | *OpenCV* | *Stable Diffusion* | *Flask* | *YOLO* | *Hugging Face* | *APIs* | *Kali Linux* | *Metasploit* | *Bash Scripting* | *RAT (Remote Access Trojans)* | *SEToolkit* | *Advanced Microsoft Excel* | *Power BI*
+- *Google Colab* | *Jupyter* | *Numpy* | *Pandas* | *Matplotlib* | *Scikit-learn* | *TensorFlow* | *PyTorch* | *Streamlit* | *Gradio* | *OpenCV* | *Stable Diffusion* | *FastAPI* | *YOLO* | *Hugging Face* | *APIs* | *Kali Linux* | *Metasploit* | *Bash Scripting* | *RAT (Remote Access Trojans)* | *SEToolkit* | *Advanced Microsoft Excel* | *Power BI*
 
 ## ⚡ Fun Fact 
 Diving deep into technology piqued my interest bc apparently ```keyboard clacking soothes me``` (i don't regret it ig)  ༎ຶ⁠‿⁠༎ຶ
