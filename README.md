@@ -4,35 +4,49 @@
 ## 👀 About Me
 With a strong foundation in cybersecurity and programming, I'm always eager to expand my skills in AI and explore its potential to drive real world impact. I'm a continous learner thriving to grow and collaborate with others to shape a better future. As a computer scientist, AI enthusiast, and a programmer, I'm passionate about using technology to solve complex real problems & improve people's lives. 
 
-## 🌱 My Journey
-Started with a passion for ```Video Editing``` and love for ```Kdramas```... which inspired me to build and manage a ~10K-follower Instagram page. This creative venture (unexpectedly) introduced me to ```Cybersecurity```, where I dove deep into understanding digital safety. After navigating the 'lion's den' in cyber world firsthand, I pivoted towards a safer and equally thrilling frontier: ```—Artificial Intelligence—``` Here, I find joy in crafting tools that empower, rather than expose! 
-
-Driven by AI's rapid advancements, I've a strong affinity for ```Generative AI & Data Analytics```, and I'm continuously expanding my expertise in these areas. While I’m still discovering where exactly I belong in this ever evolving landscape, my true passions lie somewhere at the intersection of artificial intelligence, cybersecurity, and web development :)
-
 ## 🧬 My tech DNA: 
-- 50% AI 
-- 40% cybersecurity
-- 10% web development
+- 60% AI 
+- 30% cybersecurity
+- 10% development
 
 ## 🤖 Skillset?!
 
-### Programming and Development
-- *Python* | *SQL* | *HTML & CSS* | *C++* | *Bash Scripting*
+### Programming & Development
+- **Python** • **SQL** • **C++** • **Bash** • **HTML/CSS**
+- Practices: clean code, modular design, testing, CLI tooling
 
-### AI and Machine Learning
-- *Generative AI* | *Stable Diffusion* | *PyTorch* | *Scikit-learn* | *Transformers* | *TensorFlow* | *OpenCV* | *Data Preprocessing and Transformation*
+### AI & Machine Learning
+- **LLMs & Agentic AI:** OpenAI API (GPT-4/mini), **Groq**, **Tavily** & **SerpAPI** integrations, function/tool calling, **RAG**, prompt engineering, evaluation
+- **Libraries/Frameworks:** **PyTorch**, **TensorFlow**, **Transformers**, **scikit-learn**, **OpenCV**, **YOLO**, **Stable Diffusion**
+- **Applied ML:** data preprocessing, feature engineering, classical ML, computer vision
+- **Serving & Apps:** **FastAPI**, **Streamlit**, **Gradio**
 
-### Data Science and Analytics
-- *Data Visualization* (Power BI, Matplotlib, Seaborn, Plotly) | *DAX* | *Exploratory Data Analysis (EDA)* | *ETL* | *Business Intelligence (BI)* | *Business Analytics* | *Data Analysis*
+### Data Science & Analytics
+- **EDA**, **ETL**, **Business Intelligence**, **Business Analytics**
+- Visualization: **Power BI** (incl. **DAX**), **Matplotlib**, **Seaborn**, **Plotly**
+- Reporting & dashboards; experiment tracking basics
 
-### Cybersecurity
-- *IBM-certified Cybersecurity Analyst* | *Keylogger Deployment* | *Penetration Testing* | *SHA Encryption* | *USB Rubber Ducky* | *Automated Exploits* | *Remote Access Trojans (RAT)* | *SEToolkit*
+### Database Design & Management
+- **RDBMS**, schema design, **ERD** & normalization
+- Advanced SQL (joins, CTEs, window functions)
+- Use cases: inventory & sales tracking
 
-### Database Design and Management
-- *RDBMS* | *Database Schema Design* | *ERD Diagramming and Normalization* | *Advanced SQL Queries* (Joins, CTEs, Window Functions) | *Inventory and Sales Tracking*
+### Cybersecurity (Ethical)
+- **IBM-certified Cybersecurity Analyst**
+- Red-team simulations in lab environments (Kali Linux, Metasploit, SEToolkit); phishing awareness labs
+- Vulnerability assessment & reporting; basic cryptography (SHA), network scanning & traffic analysis
+  *(Public-profile phrasing intentionally focuses on ethical/lab use.)*
 
-### Tools and Frameworks
-- *Google Colab* | *Jupyter* | *Numpy* | *Pandas* | *Matplotlib* | *Scikit-learn* | *TensorFlow* | *PyTorch* | *Streamlit* | *Gradio* | *OpenCV* | *Stable Diffusion* | *FastAPI* | *YOLO* | *Hugging Face* | *APIs* | *Kali Linux* | *Metasploit* | *Bash Scripting* | *RAT (Remote Access Trojans)* | *SEToolkit* | *Advanced Microsoft Excel* | *Power BI*
+### Tools & Platforms
+- **Jupyter**, **Google Colab**, **NumPy**, **Pandas**
+- **Hugging Face** ecosystem & model hubs
+- **APIs** (design & integration), **Git/GitHub**, command-line (Bash)
+- Diagramming & planning for GanttCharts: **Mermaid** (pipelines/flows)
+
+## 🌱 More (about my career)
+Started with a passion for graphics and love for ```Kdramas```... which make me build and manage a ~10K-follower Instagram page. This venture (unexpectedly) introduced me to ```Cybersecurity```, where I dove deep into understanding digital safety. After navigating the 'lion's den' in cyber world, I moved towards a safer and equally thrilling frontier: ```—Artificial Intelligence—``` Now I find joy in crafting tools that empower, rather than expose! 
+
+Driven by AI's rapid advancements, I've a strong affinity for ```Generative AI & Data Analytics```, and I'm continuously expanding my expertise in these areas. While I’m still discovering where exactly I belong in this ever evolving landscape, my true passions lie somewhere at the intersection of artificial intelligence, cybersecurity, and web development :)
 
 ## ⚡ Fun Fact 
 Diving deep into technology piqued my interest bc apparently ```keyboard clacking soothes me``` (i don't regret it ig)  ༎ຶ⁠‿⁠༎ຶ
